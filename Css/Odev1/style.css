@@ -1,0 +1,56 @@
+.topbar{
+    background-color: #4e4a4a;
+    display: flex;  
+    justify-content: center; 
+}
+.topbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.topbar li{
+    display: inline-block;
+    float: left;
+}
+.topbar a{
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+.topbar a:hover{
+    background-color: red;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    color: gray;
+    font-size: 30px;
+}
+#Urunlerimiz {
+    text-align: center;
+    color: purple;
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
