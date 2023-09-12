@@ -1,0 +1,106 @@
+body {
+    background-color: #E9ECEF;
+}
+
+h1 {
+    color: rgb(204, 28, 28);
+    text-align: center;
+}
+
+h2 {
+    color: chocolate;
+    text-align: left;
+    padding: 0 1%;
+}
+
+h3 {
+    color: chocolate;
+    text-align: center;
+}
+
+.div1 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+
+.red {
+    color: crimson;
+}
+
+.beyaz {
+    color: white;
+}
+
+p {
+    padding: 1%;
+}
+
+.card {
+    width: 29%;
+    margin: 3px 3px;
+    padding: 2%;
+    float: left;
+    background-color: white;
+}
+
+.cntr{
+    text-align: center;
+}
+
+.ff{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn {
+    background-image: linear-gradient(to bottom, #484e52, #484e52);
+    border-radius: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(37, 21, 21);
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-image: linear-gradient(to bottom, gray, red);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #70a3a9;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-content {
+    font-size: 16px;
+}
+
+.footer-content i {
+    color: red; 
+}
